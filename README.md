@@ -9,7 +9,7 @@ This is a Flask-based web application that predicts the Fire Weather Index (FWI)
 - Model is uploded on AWS ElasticBeanStalk using CodePipeline
 
 ## Installation and Setup
-1.Clone the repository git clone https://github.com/mayank-1584/credit_risk_model.git
+1.Clone the repository git clone https://github.com/mayank-1584/ml-1testforestfire.git
    cd credit-risk-model
 
 2.Install dependencies
